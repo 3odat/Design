@@ -1,11 +1,3 @@
-Excellent — you’re asking what it means when I said
-
-> “The controller or mission agent reads from the perception output or subscribes to it.”
-
-Let’s go step by step.
-
----
-
 ## 🧠 What “Reads from Perception Output” Means
 
 Your perception system already publishes data through APIs like:
